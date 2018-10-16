@@ -1,0 +1,7 @@
+H:\Desarrollo de aplicaciones\C#\ConsoleRegWindows\ConsoleRegWindows\bin\Debug\ConsoleRegWindows.exe.config
+H:\Desarrollo de aplicaciones\C#\ConsoleRegWindows\ConsoleRegWindows\bin\Debug\ConsoleRegWindows.exe
+H:\Desarrollo de aplicaciones\C#\ConsoleRegWindows\ConsoleRegWindows\bin\Debug\ConsoleRegWindows.pdb
+H:\Desarrollo de aplicaciones\C#\ConsoleRegWindows\ConsoleRegWindows\obj\Debug\ConsoleRegWindows.csprojAssemblyReference.cache
+H:\Desarrollo de aplicaciones\C#\ConsoleRegWindows\ConsoleRegWindows\obj\Debug\ConsoleRegWindows.csproj.CoreCompileInputs.cache
+H:\Desarrollo de aplicaciones\C#\ConsoleRegWindows\ConsoleRegWindows\obj\Debug\ConsoleRegWindows.exe
+H:\Desarrollo de aplicaciones\C#\ConsoleRegWindows\ConsoleRegWindows\obj\Debug\ConsoleRegWindows.pdb
